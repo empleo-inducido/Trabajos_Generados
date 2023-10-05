@@ -1,0 +1,33 @@
+Datos del IMSS
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2018
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2018-02-21
+Identificador: 76f7914a-a3ef-4938-be5a-66b6e4e6734d
+Licencia: License Not Specified
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2019
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2019-02-18
+Identificador: 43073f12-85e3-4ee8-b070-47d4813fe385
+Licencia: LIBRE USO MX
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2020
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2020-02-14
+Identificador: 9b9bc6c2-5604-461f-8b6e-4646b729a1d2
+Licencia: License Not Specified
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2021
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2022-01-05
+Fecha de liberación: 2021-02-12
+Identificador: 98344ff6-620c-4221-8292-9a217975499e
+Licencia: License Not Specified
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2022
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-01-17
+Fecha de liberación: 2022-02-04
+Identificador: c0f87c11-0067-4ab4-b9d3-8216da3b6424
+Licencia: LIBRE USO MX
+
+Fecha de descarga: 2023-10-05
