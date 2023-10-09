@@ -1,22 +1,9 @@
-
-
 # Proyecto: Relación entre la Producción Agropecuaria/Pesquera y la Generación de Empleos
 
 
 Según Antonio Astiazarán Gutiérrez, el alcalde de Hermosillo, de acuerdo con la Encuesta Nacional de Ocupación y Empleo del INEGI, Hermosillo se encuentra entre los tres municipios más activos económicamente en el país, al nivel de Querétaro y Monterrey. Además, en 2023, Hermosillo experimenta su mayor actividad económica y creación de empleo en los últimos 25 años. Durante el período de enero a mayo de este año, se han generado 13 mil nuevos empleos formales en la ciudad. También resalta que el 54 por ciento de todos los empleos generados en Sonora provienen de Hermosillo. Asimismo, señala que la industria aeroespacial, automotriz, tecnológica y agrícola han experimentado un crecimiento significativo en la región.
 
 Dado este contexto, se optó por llevar a cabo un análisis que permitiera examinar la creación de empleo en el sector agropecuario y pesquero como resultado de la producción en dichas áreas. En términos generales, el objetivo es analizar variables en estos campos en relación con los datos del IMSS, con el propósito de contar una historia basada en los datos que pueda respaldar la toma de decisiones de inversión en sectores que lo requieran y que puedan contribuir al crecimiento de la industria y la generación de empleo.
-
-
-
-
-### Fuente de datos
-Las principales fuentes de datos utilizadas en el proyecto son los datos proporcionados del [Portal de Datos Abiertos](https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-de-agricultura-sonora/1573) y los [Datos Abiertos](http://datos.imss.gob.mx/dataset) del IMSS.  El proceso de selección de las variables o columnas con las que trabajaremos, así como los criterios de análisis, se detallan en nuestra libreta [jupyter](https://github.com/anmerino-pnd/Proyecto_Trabajos_Generados/blob/main/processing_data.ipynb).
-
-### Referencias 
-* Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
-
-‌
 
 
 ## 1. Objetivo del proyecto
@@ -104,26 +91,44 @@ Estamos comprometidos a llevar a cabo un análisis riguroso y transparente, util
 1) **get_data.ipynb:** Esta libreta incluye el proceso de descarga de los datos de las fuentes. Se realizó un web scrapping para obtener los enlaces de descarga de todos los archivos históricos. Se seleccionaron características y se juntaron en un solo archivo por origen de datos. De tal manera que se generan 4 archivos csv correspondientes a los datos, y una serie de archivos correspondiente a los catálogos:
 
 Datos principales:
-    - **df_agricultura.csv**: Información histórica desde 2018-2023 de producción agrícola del estado de Sonora. 
-    - **df_ganaderia.csv**: Información histórica desde 2018-2023 de producción pecuaria del estado de Sonora.
-    - **df_pesca.csv**: Información histórica desde 2018-2023 de producción pesquera del estado de Sonora.
-    - **df_imss.csv**: Información histórica desde 2018-2023 de asegurados por el IMSS en el estado de Sonora.
+
+  - **df_agricultura.csv**: Información histórica desde 2018-2023 de producción agrícola del estado de Sonora. 
+
+  - **df_ganaderia.csv**: Información histórica desde 2018-2023 de producción pecuaria del estado de Sonora.
+
+  - **df_pesca.csv**: Información histórica desde 2018-2023 de producción pesquera del estado de Sonora.
+
+  - **df_imss.csv**: Información histórica desde 2018-2023 de asegurados por el IMSS en el estado de Sonora.
 
 Catálogos de datos:
-    -**cat_agricultura.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de agricultura de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
-    -**cat_ganaderia.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de ganaderia de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
-    -**cat_agricultura.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de pesca de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
-    -**imss_delegación-subdelegación.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar delegaciones y subdelegaciones.
-    -**imss_entidad-municipio.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar entidades y municipios.
-    -**imss_Layout.csv**: Diccionario original de la base de datos del IMSS (raw data).
-    -**imss_Rango_edad.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de edades.
-    -**imss_Rango_salario.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de salario de acuerdo al salario mínimo.
-    -**imss_Rango_UMA.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de salario de acuerdo a las UMAs.
-    -**imss_sector_1.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 1) al que pertenece el registro.
-    -**imss_sector_2.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 2) al que pertenece el registro.
-    -**imss_sector_4.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 4) al que pertenece el registro.
-    -**imss_sexo.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar el sexo.
-    -**imss_Tamaño_de_registro_patronal.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar el rango de tamaño patronal.
+
+  - **cat_agricultura.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de agricultura de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
+
+  - **cat_ganaderia.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de ganaderia de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
+
+  - **cat_agricultura.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de pesca de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
+  
+  - **imss_delegación-subdelegación.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar delegaciones y subdelegaciones.
+  
+  - **imss_entidad-municipio.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar entidades y municipios.
+  
+  - **imss_Layout.csv**: Diccionario original de la base de datos del IMSS (raw data).
+  
+  - **imss_Rango_edad.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de edades.
+  
+  - **imss_Rango_salario.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de salario de acuerdo al salario mínimo.
+
+  - **imss_Rango_UMA.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de salario de acuerdo a las UMAs.
+
+  - **imss_sector_1.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 1) al que pertenece el registro.
+
+  - **imss_sector_2.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 2) al que pertenece el registro.
+
+  - **imss_sector_4.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 4) al que pertenece el registro.
+
+  - **imss_sexo.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar el sexo.
+  
+  - **imss_Tamaño_de_registro_patronal.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar el rango de tamaño patronal.
 
 Todos estos archivos se guardaron en la carpeta data.
 
@@ -133,6 +138,3 @@ Todos estos archivos se guardaron en la carpeta data.
 ## 7. Referencias 
 
 * Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
-=======
-* Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
-
