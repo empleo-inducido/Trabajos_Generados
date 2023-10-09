@@ -14,16 +14,8 @@ Dado este contexto, se optó por llevar a cabo un análisis que permitiera exami
 
 <<<<<<< HEAD
 =======
-<<<<<<< HEAD
-### Fuente de datos
-Las principales fuentes de datos utilizadas en el proyecto son los datos proporcionados del [Portal de Datos Abiertos](https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-de-agricultura-sonora/1573) y los [Datos Abiertos](http://datos.imss.gob.mx/dataset) del IMSS.  El proceso de selección de las variables o columnas con las que trabajaremos, así como los criterios de análisis, se detallan en nuestra libreta [jupyter](https://github.com/anmerino-pnd/Proyecto_Trabajos_Generados/blob/main/processing_data.ipynb).
-
-### Referencias 
-* Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
-
-‌
-=======
 >>>>>>> main
+
 ## 1. Objetivo del proyecto
 
 El objetivo central de este proyecto es explorar la relación existente entre la producción agropecuaria y pesquera y la generación de empleos. En particular, buscamos identificar qué tipo de producción tiene un mayor impacto en la generación de empleos y entender cómo interactúan estos dos aspectos.
@@ -109,26 +101,44 @@ Estamos comprometidos a llevar a cabo un análisis riguroso y transparente, util
 1) **get_data.ipynb:** Esta libreta incluye el proceso de descarga de los datos de las fuentes. Se realizó un web scrapping para obtener los enlaces de descarga de todos los archivos históricos. Se seleccionaron características y se juntaron en un solo archivo por origen de datos. De tal manera que se generan 4 archivos csv correspondientes a los datos, y una serie de archivos correspondiente a los catálogos:
 
 Datos principales:
-    - **df_agricultura.csv**: Información histórica desde 2018-2023 de producción agrícola del estado de Sonora. 
-    - **df_ganaderia.csv**: Información histórica desde 2018-2023 de producción pecuaria del estado de Sonora.
-    - **df_pesca.csv**: Información histórica desde 2018-2023 de producción pesquera del estado de Sonora.
-    - **df_imss.csv**: Información histórica desde 2018-2023 de asegurados por el IMSS en el estado de Sonora.
+
+  - **df_agricultura.csv**: Información histórica desde 2018-2023 de producción agrícola del estado de Sonora. 
+
+  - **df_ganaderia.csv**: Información histórica desde 2018-2023 de producción pecuaria del estado de Sonora.
+
+  - **df_pesca.csv**: Información histórica desde 2018-2023 de producción pesquera del estado de Sonora.
+
+  - **df_imss.csv**: Información histórica desde 2018-2023 de asegurados por el IMSS en el estado de Sonora.
 
 Catálogos de datos:
-    -**cat_agricultura.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de agricultura de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
-    -**cat_ganaderia.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de ganaderia de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
-    -**cat_agricultura.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de pesca de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
-    -**imss_delegación-subdelegación.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar delegaciones y subdelegaciones.
-    -**imss_entidad-municipio.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar entidades y municipios.
-    -**imss_Layout.csv**: Diccionario original de la base de datos del IMSS (raw data).
-    -**imss_Rango_edad.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de edades.
-    -**imss_Rango_salario.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de salario de acuerdo al salario mínimo.
-    -**imss_Rango_UMA.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de salario de acuerdo a las UMAs.
-    -**imss_sector_1.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 1) al que pertenece el registro.
-    -**imss_sector_2.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 2) al que pertenece el registro.
-    -**imss_sector_4.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 4) al que pertenece el registro.
-    -**imss_sexo.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar el sexo.
-    -**imss_Tamaño_de_registro_patronal.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar el rango de tamaño patronal.
+
+  - **cat_agricultura.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de agricultura de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
+
+  - **cat_ganaderia.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de ganaderia de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
+
+  - **cat_agricultura.xlsx**: Contiene un catálogo en cada pestaña con la codificación que se utiliza en la base de datos de pesca de SAGARHPA. Estos catálogos se utilizaron dentro del procesamiento de datos para generar las tablas tidy.
+  
+  - **imss_delegación-subdelegación.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar delegaciones y subdelegaciones.
+  
+  - **imss_entidad-municipio.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar entidades y municipios.
+  
+  - **imss_Layout.csv**: Diccionario original de la base de datos del IMSS (raw data).
+  
+  - **imss_Rango_edad.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de edades.
+  
+  - **imss_Rango_salario.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de salario de acuerdo al salario mínimo.
+
+  - **imss_Rango_UMA.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los rangos de salario de acuerdo a las UMAs.
+
+  - **imss_sector_1.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 1) al que pertenece el registro.
+
+  - **imss_sector_2.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 2) al que pertenece el registro.
+
+  - **imss_sector_4.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar los sector (nivel 4) al que pertenece el registro.
+
+  - **imss_sexo.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar el sexo.
+  
+  - **imss_Tamaño_de_registro_patronal.csv**: Catálogo con las claves que se utilizan en la base de datos del IMSS para codificar el rango de tamaño patronal.
 
 Todos estos archivos se guardaron en la carpeta data.
 
