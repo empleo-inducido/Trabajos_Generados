@@ -1,9 +1,29 @@
+<<<<<<< HEAD
 # Proyecto: Relación entre la Producción Agropecuaria/Pesquera y la Generación de Empleos
+=======
+<<<<<<< HEAD
+# Trabajos Generados
+=======
+# Proyecto: Relación entre la Producción Agropecuaria/Pesquera y la Generación de Empleos
+>>>>>>> 94f8e8b0d201be0404d2b739832c07e445434405
+>>>>>>> main
 
 Según Antonio Astiazarán Gutiérrez, el alcalde de Hermosillo, de acuerdo con la Encuesta Nacional de Ocupación y Empleo del INEGI, Hermosillo se encuentra entre los tres municipios más activos económicamente en el país, al nivel de Querétaro y Monterrey. Además, en 2023, Hermosillo experimenta su mayor actividad económica y creación de empleo en los últimos 25 años. Durante el período de enero a mayo de este año, se han generado 13 mil nuevos empleos formales en la ciudad. También resalta que el 54 por ciento de todos los empleos generados en Sonora provienen de Hermosillo. Asimismo, señala que la industria aeroespacial, automotriz, tecnológica y agrícola han experimentado un crecimiento significativo en la región.
 
 Dado este contexto, se optó por llevar a cabo un análisis que permitiera examinar la creación de empleo en el sector agropecuario y pesquero como resultado de la producción en dichas áreas. En términos generales, el objetivo es analizar variables en estos campos en relación con los datos del IMSS, con el propósito de contar una historia basada en los datos que pueda respaldar la toma de decisiones de inversión en sectores que lo requieran y que puedan contribuir al crecimiento de la industria y la generación de empleo.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+### Fuente de datos
+Las principales fuentes de datos utilizadas en el proyecto son los datos proporcionados del [Portal de Datos Abiertos](https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-de-agricultura-sonora/1573) y los [Datos Abiertos](http://datos.imss.gob.mx/dataset) del IMSS.  El proceso de selección de las variables o columnas con las que trabajaremos, así como los criterios de análisis, se detallan en nuestra libreta [jupyter](https://github.com/anmerino-pnd/Proyecto_Trabajos_Generados/blob/main/processing_data.ipynb).
+
+### Referencias 
+* Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
+
+‌
+=======
+>>>>>>> main
 ## 1. Objetivo del proyecto
 
 El objetivo central de este proyecto es explorar la relación existente entre la producción agropecuaria y pesquera y la generación de empleos. En particular, buscamos identificar qué tipo de producción tiene un mayor impacto en la generación de empleos y entender cómo interactúan estos dos aspectos.
@@ -116,4 +136,9 @@ Todos estos archivos se guardaron en la carpeta data.
 
 
 ## 7. Referencias 
+<<<<<<< HEAD
 * Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
+=======
+* Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
+>>>>>>> 94f8e8b0d201be0404d2b739832c07e445434405
+>>>>>>> main
