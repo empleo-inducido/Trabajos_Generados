@@ -1,10 +1,14 @@
 # Proyecto: Relación entre la Producción Agropecuaria/Pesquera y la Generación de Empleos
 
-## Objetivo del Análisis
+Según Antonio Astiazarán Gutiérrez, el alcalde de Hermosillo, de acuerdo con la Encuesta Nacional de Ocupación y Empleo del INEGI, Hermosillo se encuentra entre los tres municipios más activos económicamente en el país, al nivel de Querétaro y Monterrey. Además, en 2023, Hermosillo experimenta su mayor actividad económica y creación de empleo en los últimos 25 años. Durante el período de enero a mayo de este año, se han generado 13 mil nuevos empleos formales en la ciudad. También resalta que el 54 por ciento de todos los empleos generados en Sonora provienen de Hermosillo. Asimismo, señala que la industria aeroespacial, automotriz, tecnológica y agrícola han experimentado un crecimiento significativo en la región.
+
+Dado este contexto, se optó por llevar a cabo un análisis que permitiera examinar la creación de empleo en el sector agropecuario y pesquero como resultado de la producción en dichas áreas. En términos generales, el objetivo es analizar variables en estos campos en relación con los datos del IMSS, con el propósito de contar una historia basada en los datos que pueda respaldar la toma de decisiones de inversión en sectores que lo requieran y que puedan contribuir al crecimiento de la industria y la generación de empleo.
+
+## 1. Objetivo del proyecto
 
 El objetivo central de este proyecto es explorar la relación existente entre la producción agropecuaria y pesquera y la generación de empleos. En particular, buscamos identificar qué tipo de producción tiene un mayor impacto en la generación de empleos y entender cómo interactúan estos dos aspectos.
 
-## Fuentes de Datos y Variables
+## 2. Fuentes de Datos y Variables
 
 Para llevar a cabo este análisis, utilizaremos dos fuentes de datos principales: SAGARHPA (Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación) e IMSS (Instituto Mexicano del Seguro Social).
 
@@ -20,7 +24,7 @@ Fuentes principales de datos:
 - [SAGARHPA: Pesca](https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-pesca-sonora/1582)
 - [IMSS: Asegurados](http://datos.imss.gob.mx/dataset/asg2023/resource/asg-2023-01-31)
 
-## Limpieza y Preparación de Datos
+## 3. Limpieza y Preparación de Datos
 
 En este proyecto, hemos llevado a cabo una serie de acciones cruciales en el proceso de limpieza y preparación de datos. Estas acciones incluyeron:
 
@@ -37,7 +41,7 @@ En este proyecto, hemos llevado a cabo una serie de acciones cruciales en el pro
 Estas acciones son fundamentales para garantizar que los datos estén limpios, coherentes y listos para su análisis.
 
 
-## Tablas "Tidy" Seleccionadas
+## 4. Tablas "Tidy" Seleccionadas
 
 Con el fin de llevar a cabo un análisis efectivo, hemos organizado los datos en tablas "tidy" que facilitan su manipulación y visualización. Estas tablas contienen información esencial relacionada con la producción y la generación de empleos.
 
@@ -73,14 +77,14 @@ Esta tabla proporciona una visión completa de la producción agropecuaria y pes
 
 Esta tabla contiene información detallada sobre el empleo, incluyendo datos relacionados con el salario, la cantidad de trabajadores, la ubicación geográfica y otros atributos relevantes.
 
-## Justificación
+## 5. Justificación
 
 La relevancia de este análisis radica en la comprensión de cómo la producción agropecuaria y pesquera contribuye a la generación de empleos en la economía. Esta información puede ser valiosa para la toma de decisiones tanto a nivel gubernamental como en el sector privado, permitiendo una mejor planificación y asignación de recursos.
 
 Estamos comprometidos a llevar a cabo un análisis riguroso y transparente, utilizando datos confiables y aplicando las mejores prácticas en el manejo de datos.
 
 
-## Información del contenido en el repositorio
+## 6. Información del contenido en el repositorio
 
 1) **get_data.ipynb:** Esta libreta incluye el proceso de descarga de los datos de las fuentes. Se realizó un web scrapping para obtener los enlaces de descarga de todos los archivos históricos. Se seleccionaron características y se juntaron en un solo archivo por origen de datos. De tal manera que se generan 4 archivos csv correspondientes a los datos, y una serie de archivos correspondiente a los catálogos:
 
@@ -108,4 +112,8 @@ Catálogos de datos:
 
 Todos estos archivos se guardaron en la carpeta data.
 
-2) **processing_data.ipynb:** 
+2) **processing_data.ipynb:**  El proceso de selección de las variables o columnas con las que trabajaremos, así como los criterios de procesamiento y limpieza, se detallan en nuestra libreta [jupyter](https://github.com/anmerino-pnd/Proyecto_Trabajos_Generados/blob/main/processing_data.ipynb). Esta libreta genera las dos tablas tidy de nuestro proyecto (*tidy_agricultura_ganaderia_pesca*, y *tidy_imss*).
+
+
+## 7. Referencias 
+* Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
