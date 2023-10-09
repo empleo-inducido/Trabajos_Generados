@@ -1,20 +1,10 @@
-<<<<<<< HEAD
 # Proyecto: Relación entre la Producción Agropecuaria/Pesquera y la Generación de Empleos
-=======
-<<<<<<< HEAD
-# Trabajos Generados
-=======
-# Proyecto: Relación entre la Producción Agropecuaria/Pesquera y la Generación de Empleos
->>>>>>> 94f8e8b0d201be0404d2b739832c07e445434405
->>>>>>> main
+
 
 Según Antonio Astiazarán Gutiérrez, el alcalde de Hermosillo, de acuerdo con la Encuesta Nacional de Ocupación y Empleo del INEGI, Hermosillo se encuentra entre los tres municipios más activos económicamente en el país, al nivel de Querétaro y Monterrey. Además, en 2023, Hermosillo experimenta su mayor actividad económica y creación de empleo en los últimos 25 años. Durante el período de enero a mayo de este año, se han generado 13 mil nuevos empleos formales en la ciudad. También resalta que el 54 por ciento de todos los empleos generados en Sonora provienen de Hermosillo. Asimismo, señala que la industria aeroespacial, automotriz, tecnológica y agrícola han experimentado un crecimiento significativo en la región.
 
 Dado este contexto, se optó por llevar a cabo un análisis que permitiera examinar la creación de empleo en el sector agropecuario y pesquero como resultado de la producción en dichas áreas. En términos generales, el objetivo es analizar variables en estos campos en relación con los datos del IMSS, con el propósito de contar una historia basada en los datos que pueda respaldar la toma de decisiones de inversión en sectores que lo requieran y que puedan contribuir al crecimiento de la industria y la generación de empleo.
 
-<<<<<<< HEAD
-=======
->>>>>>> main
 
 ## 1. Objetivo del proyecto
 
@@ -146,8 +136,5 @@ Todos estos archivos se guardaron en la carpeta data.
 
 
 ## 7. Referencias 
-<<<<<<< HEAD
+
 * Sonora, R. (2023, June 9). Hermosillo se encuentra dentro de los primeros municipios con mayor actividad económica del país: INEGI. Radio Sonora; Radio Sonora. https://radiosonora.com.mx/2023/06/09/hermosillo-se-encuentra-dentro-de-los-primeros-municipios-con-mayor-actividad-economica-del-pais-inegi/
-=======
->>>>>>> 94f8e8b0d201be0404d2b739832c07e445434405
->>>>>>> main
