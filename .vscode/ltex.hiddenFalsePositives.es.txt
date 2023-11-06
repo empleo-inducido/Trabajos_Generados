@@ -1,0 +1,2 @@
+{"rule":"COMO_COMPARATIVO","sentence":"^\\QNuevamente no podemos decir con certeza si lo son o no, así como en el caso anterior, debemos mostrarle a los expertos cómo estos modelos\\E$"}
+{"rule":"COMO_COMPARATIVO","sentence":"^\\QNuevamente no podemos decir con certeza si lo son o no, así como en el caso anterior, debemos mostrarle a los expertos cómo estos modelos han identificado los outliers y así poder\\E$"}
