@@ -1,6 +1,11 @@
 # Carpeta de datos
 data/
 
+# vscode
+/.vscode
+
+#Notebook de pruebas
+pruebas.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
