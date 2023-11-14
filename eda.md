@@ -1,4 +1,4 @@
 Este proyecto tiene como objetivo hacer un estudio de varios data frames, concatenados, obtenidos de páginas gubernamentales. Durante el transcurso del mismo se siguieron pasos para tratar los datos, y así, poder entender mejor la información histórica rescatada. Los hallazgos principales durante el EDA fueron los siguientes:
-*   Utilizando los métodos para visualizar datos atipícos, vimos que las anomalías resultaron ser menores de las esperadas, creíamos lo contrario dado que tenemos una gran cantidad de datos. 
-*   La casi ausencia de datos faltantes fue algo interesante de observar, esto es algo que ayuda bastante al análisis posterior que haremos, ya que significa que el modelo que vamos a hacer va a ser una buena aproximación a la realidad.
+*   Utilizando los métodos para visualizar datos atipícos, vimos que las anomalías resultaron ser menores de las esperadas; creíamos lo contrario dado que tenemos una gran cantidad de datos. 
+*   La casi ausencia de datos faltantes fue algo interesante de observar, esto es algo que ayuda bastante al análisis posterior que haremos, ya que, significa que sea cual sea el modelo que vayamos a hacer, va a ser una buena aproximación a la realidad.
 *   
