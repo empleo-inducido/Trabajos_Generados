@@ -1,4 +1,184 @@
 Datos del IMSS
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2006
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-08-17
+Frequency: Monthly
+Identificador: 268481ae-ca25-48ef-b899-9532c34c9709
+Spatial / Geographical Coverage Area: POINT (-99.173412322998 19.423555048804)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Domingo, Enero 1, 2006 - 00:00toDomingo, Diciembre 31, 2006 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2007
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-08-17
+Frequency: Monthly
+Identificador: 9abae4ba-f2a8-41c8-9684-63caf8cf6dfd
+Spatial / Geographical Coverage Area: POINT (-99.173369407654 19.423433630174)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Lunes, Enero 1, 2007 - 00:00toLunes, Diciembre 31, 2007 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2008
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-06-26
+Frequency: Monthly
+Identificador: 25437f4e-ebc1-4f9b-817e-16c3fe6f18e4
+Spatial / Geographical Coverage Area: POINT (-99.17332649231 19.423555048804)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Martes, Enero 1, 2008 - 00:00toMiércoles, Diciembre 31, 2008 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2009
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-06-02
+Frequency: Monthly
+Identificador: d2266462-5f8e-4b9f-83ff-32f14bb887b4
+Spatial / Geographical Coverage Area: POINT (-99.173347949982 19.423534812372)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Jueves, Enero 1, 2009 - 00:00toJueves, Diciembre 31, 2009 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2010
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-06-03
+Frequency: Monthly
+Identificador: a18b23b9-cf64-433e-aea3-ca72a2d602d4
+Spatial / Geographical Coverage Area: POINT (-99.173369407654 19.423534812372)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Viernes, Enero 1, 2010 - 00:00toViernes, Diciembre 31, 2010 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2011
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-06-01
+Frequency: Monthly
+Identificador: 2377ea1e-a734-43f3-9f51-eb3bc4449576
+Spatial / Geographical Coverage Area: POINT (-99.173165559769 19.423676467342)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Sábado, Enero 1, 2011 - 00:00toSábado, Diciembre 31, 2011 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2012
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-05-15
+Frequency: Monthly
+Identificador: 9e752604-7e5d-4318-bab3-ee089378767a
+Spatial / Geographical Coverage Area: POINT (-99.173315763474 19.423575285233)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Domingo, Enero 1, 2012 - 00:00toLunes, Diciembre 31, 2012 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2013
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-05-12
+Frequency: Monthly
+Identificador: 834c6ec5-38f9-48ef-bae5-930491748021
+Spatial / Geographical Coverage Area: POINT (-99.173208475113 19.423585403447)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Martes, Enero 1, 2013 - 00:00toMartes, Diciembre 31, 2013 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2014
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-05-15
+Frequency: Monthly
+Identificador: fc5f6d2f-f032-451b-b601-7e85b36c4eed
+Spatial / Geographical Coverage Area: POINT (-99.17332649231 19.423544930588)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Miércoles, Enero 1, 2014 - 00:00toMiércoles, Diciembre 31, 2014 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2015
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2015-06-03
+Frequency: Monthly
+Identificador: f2d3fbf5-5822-44d3-a0b2-fe2854eb249c
+Spatial / Geographical Coverage Area: POINT (-99.173294305801 19.423575285233)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Jueves, Enero 1, 2015 - 00:00toJueves, Diciembre 31, 2015 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2016
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2016-02-24
+Frequency: Monthly
+Identificador: 7560cdef-ee15-436c-940a-675e79a25209
+Spatial / Geographical Coverage Area: POINT (-99.173262119293 19.42359552166)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Viernes, Enero 1, 2016 - 00:00toSábado, Diciembre 31, 2016 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.imss@imss.gob.mx
+Public Access Level: Public
+Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2017
+Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
+Fecha de Modificación: 2023-06-08
+Fecha de liberación: 2017-03-02
+Frequency: Monthly
+Identificador: abd5c0bc-7cb9-4758-adc8-aa711aceca96
+Spatial / Geographical Coverage Area: POINT (-99.173347949982 19.42359552166)
+Spatial / Geographical Coverage Location: Paseo de la Reforma 476, Juárez, 06600 Ciudad de México, CDMX
+Temporal Coverage: Domingo, Enero 1, 2017 - 00:00toDomingo, Diciembre 31, 2017 - 00:00
+Licencia: LIBRE USO MX
+Autor: Instituto Mexicano del Seguro Social
+Data Dictionary: http://datos.imss.gob.mx/dataset/cat%C3%A1logo-de-archivos-asegurados
+Contact Name: Instituto Mexicano del Seguro Social
+Contact Email: datos.abiertos@imss.gob.mx
+Public Access Level: Public
 Enlace de archivos por mes: http://datos.imss.gob.mx/dataset/asg-2018
 Publisher: Puestos de trabajo registrados por los patrones en el Instituto Mexicano del Seguro Social y asegurados sin un empleo asociado
 Fecha de Modificación: 2023-06-08
@@ -30,4 +210,4 @@ Fecha de liberación: 2022-02-04
 Identificador: c0f87c11-0067-4ab4-b9d3-8216da3b6424
 Licencia: LIBRE USO MX
 
-Fecha de descarga: 2023-11-13
+Fecha de descarga: 2023-11-28
