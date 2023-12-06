@@ -1,7 +1,7 @@
-### **Fundamentación de la Historia: Análisis Económico de Sonora**
+# **Fundamentación de la Historia: Análisis Económico de Sonora**
 
 <div align="center">
-  <img src="https://github.com/empleo-inducido/Trabajos_Generados/assets/111190323/be7080e0-4c2a-419f-91f3-2bb30057f222" width="250"/>
+  <img src="https://github.com/empleo-inducido/Trabajos_Generados/assets/111190323/be7080e0-4c2a-419f-91f3-2bb30057f222" width="200"/>
 </div>
 
 
